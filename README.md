@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ### I'm a software developer, car lover, and a fish nut. Always looking for ways to bend life to my will with technology.
 
-🔭 I'm currently working towards AWS cloud/developer certifications as well as my summer tan.
+🔭 I'm currently working for Keap as a SE I and looking to continue my growth
 
-💬 Ferrari for Driver and Constructor Championship 2022 F1... reach out ot me if you want to discuss
+💬 Ferrari for Driver and Constructor Championship 2023 F1... reach out ot me if you want to discuss
 
 ⚡ Si bu podi papia kriolu de Cabo Verde, dam fala mano
+
+⚡ My work profile is located here github.com/Cpark-14
 
 <img src="https://img.devrant.com/devrant/rant/r_1878961_XjnsE.jpg">
 
